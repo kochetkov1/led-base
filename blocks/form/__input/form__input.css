@@ -1,0 +1,19 @@
+.form__input {
+  width: 250px;
+  height: 46px;
+
+  margin: 0;
+  padding: 0;
+  margin-bottom: 13px;
+
+  border: none;
+  box-shadow: inset 0px 0px 7px 1px rgba(0, 0, 0, 0.27);
+  border-radius: 8px;
+}
+
+.form__input::-webkit-input-placeholder {
+  text-transform: uppercase;
+  text-align: center;
+  /* box-shadow: inset 0px 0px 7px 1px rgba(0, 0, 0, 0.27);
+  border-radius: 8px; */
+  }

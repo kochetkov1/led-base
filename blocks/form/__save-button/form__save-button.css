@@ -1,0 +1,19 @@
+.form__save-button {
+  width: 119px;
+  height: 26px;
+
+  border: none;
+  background: linear-gradient(268.82deg, rgba(255, 61, 0, 0.86) 7.53%, rgba(255, 0, 0, 0.86) 165.77%);
+  mix-blend-mode: normal;
+  border-radius: 8px;
+
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+}

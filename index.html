@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Faros Применяемость</title>
+  <link rel="stylesheet" href="./pages/index.css">
+</head>
+
+<body>
+
+  <div class="page">
+    <header class="header">
+      <img class="header__logo" src="./images/led-logo.svg" alt="Логотип">
+    </header>
+
+    <main class="content">
+
+      <form class="form" novalidate>
+        <label class="form__lable" for="name">Применяемость</label>
+        <input type="text" class="form__input form__input-login" placeholder="Логин" required minlength="2" maxlength="30">
+        <span class="login-input-error form__input-error"></span>
+        <input type="password" class="form__input form__input-password" placeholder="Пароль" required>
+        <span class="pass-input-error form__input-error"></span>
+        <button type="submit" class="form__save-button">Вход</button>
+      </form>
+
+    </main>
+
+    <footer class="footer">
+      <p class="footer__copyright">&copy; 2022 Faros LED</p>
+    </footer>
+  </div>
+  
+</body>
+
+</html>
