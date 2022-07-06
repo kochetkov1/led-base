@@ -14,3 +14,6 @@
 @import url(../blocks/form/__input/form__input.css);
 
 @import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__button-container/menu__button-container.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/menu/__pointer/menu__pointer.css);
