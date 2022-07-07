@@ -12,6 +12,8 @@
   flex-direction: row;
 
   z-index: 555;
+
+  transition: 0.5s;
 }
 
 .menu__button-container:hover {

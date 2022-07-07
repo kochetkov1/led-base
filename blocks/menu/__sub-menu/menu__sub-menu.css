@@ -1,17 +1,25 @@
 .menu__sub-menu {
   list-style: none;
-  flex-direction: column;
+  
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 5px;
+  row-gap: 10px;
+
 
   margin: 0;
-  margin-top: -25px;
-  padding: 10px;
+  margin-top: -11px;
+  padding: 10px ;
   box-sizing: border-box;
 
-  background-color: #C0C0C0;
+  background-color: #e0e0e0;
   width: 250px;
   min-height: 100px;
+  box-sizing: border-box;
 
-  border-radius: 0px 0px 8px 8px;
+  border-radius: 8px;
 
-  box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.3);
+  transition: 0.5s;
 }

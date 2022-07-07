@@ -16,6 +16,8 @@
   text-transform: uppercase;
 
   color: #FFFFFF;
+
+  transition: 0.5s;
 }
 
 .menu__exit-button:hover {
