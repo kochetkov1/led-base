@@ -1,4 +1,17 @@
 .menu__sub-menu {
   list-style: none;
   flex-direction: column;
+
+  margin: 0;
+  margin-top: -25px;
+  padding: 10px;
+  box-sizing: border-box;
+
+  background-color: #C0C0C0;
+  width: 250px;
+  min-height: 100px;
+
+  border-radius: 0px 0px 8px 8px;
+
+  box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.3);
 }
