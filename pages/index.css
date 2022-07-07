@@ -17,3 +17,5 @@
 @import url(../blocks/menu/__button-container/menu__button-container.css);
 @import url(../blocks/menu/__link/menu__link.css);
 @import url(../blocks/menu/__pointer/menu__pointer.css);
+@import url(../blocks/menu/__point/menu__point.css);
+@import url(../blocks/menu/__sub-menu/menu__sub-menu.css);

@@ -1,0 +1,4 @@
+.menu__sub-menu {
+  list-style: none;
+  flex-direction: column;
+}

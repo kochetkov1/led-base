@@ -7,7 +7,7 @@
 .main-item:active ~ .sub-menu, 
 .sub-menu:hover 
 { 
-   display: block; 
+   display: flex; 
 } 
 
 .menu {
